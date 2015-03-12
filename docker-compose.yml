@@ -1,0 +1,4 @@
+app:
+  image: aehata/aspect-mock-sample
+  volumes:
+    - ./app:/app
